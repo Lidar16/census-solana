@@ -146,6 +146,9 @@ See `packages/registry/CONTRIBUTING.md` for validation steps.
 - [ ] SDK (`@census/solana`)
 
 ---
+## Data Sources
+
+https://gist.github.com/Lidar16/96221cf119e215beca0a4ad0eecbdcdb
 
 ## Contributing
 
@@ -159,4 +162,4 @@ MIT — free to use, fork, and deploy.
 
 ---
 
-*Built in Lagos for the builders who live outside the latency sweet spot.*
+*Built in Benin for the builders who live outside the latency sweet spot.*
